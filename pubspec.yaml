@@ -1,6 +1,6 @@
 name: google_phone_number_hint
 description: "A new Flutter plugin to get the phone number hint from Google Play Services."
-version: 0.0.1
+version: 0.0.2
 homepage: "https://github.com/champ96k/google_phone_number_hint"
 
 environment:
