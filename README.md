@@ -167,8 +167,4 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 ## Support
 
-For any questions or issues, please open a GitHub issue.
-
----
-
-Happy Coding! 🚀
+For any questions or issues, please open a GitHub issue
