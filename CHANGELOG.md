@@ -5,3 +5,7 @@
 ## 0.0.2
 
 - Documentation update
+
+## 0.0.3
+
+- Error logs added

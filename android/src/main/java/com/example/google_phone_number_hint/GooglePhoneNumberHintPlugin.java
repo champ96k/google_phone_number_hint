@@ -57,10 +57,10 @@ public class GooglePhoneNumberHintPlugin implements FlutterPlugin, MethodCallHan
 
                             startIntentSenderForResult(activity, req.getIntentSender(), RESOLVE_HINT, null, 0, 0, 0, null);
                         } catch (Exception e) {
-                            Log.i("Error launching", "error occurred in launching Activity result");
+                            Log.i("Error launching", "error occurred in launching Activity result " + e);
                         }
                     })
-                    .addOnFailureListener(e -> Log.i("Failure occurred", "Failure getting phone number"));
+                    .addOnFailureListener(e -> Log.i("Failure occurred", "Failure getting phone number" + e));
 
             phoneNumberResult = result;
         } else {

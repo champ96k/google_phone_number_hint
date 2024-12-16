@@ -23,7 +23,7 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  google_phone_number_hint: ^1.0.0
+  google_phone_number_hint: ^0.0.3
 ```
 
 Run the following command to install the package:
